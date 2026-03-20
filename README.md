@@ -1,2 +1,1 @@
-# 412c12x21x12x
-x1r2x2xfd21x21
+# This repository is outdated. Visit it [HERE](https://github.app916842.com/)
